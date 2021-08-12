@@ -1,4 +1,4 @@
-# 👾 - Hi, me chamo Antonio Marcos Leite !
+# 👾 - Oi, me chamo Antonio Marcos Leite !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio00&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio00&layout=compact&theme=highcontrast)
 
